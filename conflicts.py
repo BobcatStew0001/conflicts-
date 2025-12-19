@@ -1,5 +1,5 @@
 print("Hello World!")
 print(" = is a test program.")
-print('I love Python programming.')
+print("You can run this program in any Python environment.")
 class = input("What is the name of your class?")
 print(f'How are you liking {class}?')
